@@ -32,24 +32,24 @@
 * To implement prediction-based features, AI models were built with libraries appropriate to prototype a variety of model types, including ‘scikit-learn’ for traditional machine learning models (SVM regressor), ‘statstools’ for statistical models (ARIMA and derivatives) and ‘Tensorflow’ for deep learning models. 
 * The trading simulation and strategy component was implemented with Backtrader using a broker account provided by Alpaca Markets. 
 
-### [Local Setup Guide can be found here](https://github.com/sseanik/To-the-Moon/blob/main/LOCAL_SETUP.md)
+### [Local Setup Guide can be found here](https://github.com/AJLandry1000000000/To-the-Moon/blob/main/LOCAL_SETUP.md)
 
 ## Screenshots
 
-![Trending](https://github.com/sseanik/To-the-Moon/blob/main/screenshots/Trending.png)
-![Share Graph](https://github.com/sseanik/To-the-Moon/blob/main/screenshots/SharePrice.png)
-![Notes](https://github.com/sseanik/To-the-Moon/blob/main/screenshots/Notes.png)
-![Portfolio](https://github.com/sseanik/To-the-Moon/blob/main/screenshots/Portfolio.png)
-![News](https://github.com/sseanik/To-the-Moon/blob/main/screenshots/News.png)
-![Favourites](https://github.com/sseanik/To-the-Moon/blob/main/screenshots/Favourites.png)
-![Screeners](https://github.com/sseanik/To-the-Moon/blob/main/screenshots/Screeners.png)
-![Forum](https://github.com/sseanik/To-the-Moon/blob/main/screenshots/Forum.png)
+![Trending](https://github.com/AJLandry1000000000/To-the-Moon/blob/main/screenshots/Trending.png)
+![Share Graph](https://github.com/AJLandry1000000000/To-the-Moon/blob/main/screenshots/SharePrice.png)
+![Notes](https://github.com/AJLandry1000000000/To-the-Moon/blob/main/screenshots/Notes.png)
+![Portfolio](https://github.com/AJLandry1000000000/To-the-Moon/blob/main/screenshots/Portfolio.png)
+![News](https://github.com/AJLandry1000000000/To-the-Moon/blob/main/screenshots/News.png)
+![Favourites](https://github.com/AJLandry1000000000/To-the-Moon/blob/main/screenshots/Favourites.png)
+![Screeners](https://github.com/AJLandry1000000000/To-the-Moon/blob/main/screenshots/Screeners.png)
+![Forum](https://github.com/AJLandry1000000000/To-the-Moon/blob/main/screenshots/Forum.png)
 
 ### Email Screenshots
 
-![Welcome Email](https://github.com/sseanik/To-the-Moon/blob/main/screenshots/Email.png)
-![Email Update](https://github.com/sseanik/To-the-Moon/blob/main/screenshots/EmailUpdate.png)
+![Welcome Email](https://github.com/AJLandry1000000000/To-the-Moon/blob/main/screenshots/Email.png)
+![Email Update](https://github.com/AJLandry1000000000/To-the-Moon/blob/main/screenshots/EmailUpdate.png)
 
 ## Credit
 
-This application was collaborated in a CS3900 course with myself, [Austin](https://github.com/AJLandry1000000000), [Karim](https://github.com/karim-saad), [Sarah](https://github.com/serahtan) and [Junji](https://github.com/pul-s4r). Our tech stack primarily consists of React for the frontend, Flask for the backend and PostgreSQL for the database. I primarily contributed towards the backend and data layers of this application, focusing on swagger documentation, database management and news related endpoints.
+This application was collaborated in a CS3900 course with myself, [Sean](https://github.com/sseanik), [Karim](https://github.com/karim-saad), [Sarah](https://github.com/serahtan) and [Junji](https://github.com/pul-s4r). Our tech stack primarily consists of React for the frontend, Flask for the backend and PostgreSQL for the database. I primarily contributed towards the backend and data layers of this application, focusing on swagger documentation, database management and news related endpoints.
